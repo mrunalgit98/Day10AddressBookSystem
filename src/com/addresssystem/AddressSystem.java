@@ -1,9 +1,8 @@
 package com.addresssystem;
 
-
 import java.util.Scanner;
 
-class AddressSystem {
+class AddressSystem{
     String firstname;
     String lastname;
     String city;
@@ -29,4 +28,5 @@ class AddressSystem {
 
 
 }
+
 //UC1
